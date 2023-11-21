@@ -1,4 +1,4 @@
-![a main page screenshot](/Rock_Paper_Scissors-Game/RPS.png).
+![a main page screenshot](/RPS.png)
 
 # Rock / Paper / Scissors - Game for all
 
@@ -25,7 +25,7 @@ See the live version of [Project Name](https://artur-it.github.io/Rock_Paper_Sci
 
 - Creating conditions for comparing player and computer choice.
 
-![a main page screenshot](/Rock_Paper_Scissors-Game/f_check.png).
+![a main page screenshot](/f_check.png)
 
 &nbsp;
 
