@@ -4,7 +4,7 @@
 
 A popular, enjoyable and fast-paced childhood game. Good for difficult choices among several people.
 
-See the live version of [Project Name](https://artur-it.github.io/Rock_Paper_Scissors-Game/).
+See the live version of (https://artur-it.github.io/Rock_Paper_Scissors-Game/).
 
 **Main features**:
 
